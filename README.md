@@ -17,4 +17,4 @@ Olá, meu nome é Arthur, parei de usar o Github em 2021 mas estou voltando com 
 </div>
 
  <div> 
- 	<a href="https://www.behance.net/pitzzzdesign" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+ <p>	<a href="https://www.behance.net/pitzzzdesign" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> </p>
