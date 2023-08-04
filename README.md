@@ -14,3 +14,6 @@ Olá, meu nome é Arthur, parei de usar o Github em 2021 mas estou voltando com 
  <a href="https://www.behance.net/pitzzzdesign" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 
  <a href="https://www.instagram.com/i_am_arthur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+Algumas das minhas habilidades:
+ <img height="" src=""/>
