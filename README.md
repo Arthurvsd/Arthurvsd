@@ -15,7 +15,7 @@ Olá, meu nome é Arthur, parei de usar o Github em 2021 mas estou voltando com 
 
  <a href="https://www.instagram.com/i_am_arthur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-Algumas das minhas habilidades:
+<strong> Algumas das minhas habilidades:
  <img height="50px" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format"/>
 <img height="50px" src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png"/>
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/>
